@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "friend_match_bot.py"]
+CMD ["python", "friend_match_bot_v2.py"]
